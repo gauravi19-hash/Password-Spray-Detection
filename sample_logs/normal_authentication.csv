@@ -1,0 +1,8 @@
+Timestamp,SourceIP,Username,Action,LogonType,DeviceName,FailureReason
+2026-09-26 10:01:10,10.10.20.15,alice,Failure,Remote,DC01,Invalid password
+2026-09-26 10:03:42,10.10.20.15,alice,Failure,Remote,DC01,Invalid password
+2026-09-26 10:05:18,10.10.20.15,alice,Success,Remote,DC01,-
+2026-09-26 10:07:03,10.10.20.22,bob,Failure,Remote,DC01,Invalid password
+2026-09-26 10:09:31,10.10.20.22,bob,Success,Remote,DC01,-
+2026-09-26 10:12:14,10.10.20.30,charlie,Failure,Remote,DC01,Invalid password
+2026-09-26 10:14:48,10.10.20.30,charlie,Success,Remote,DC01,-
